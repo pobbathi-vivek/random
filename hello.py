@@ -12,7 +12,7 @@
 
 # age = 18
 # can_vote = age >= 18
-# print(age > 15)
+# print(age > 15) #this lo
 
 
 # temp = 22
