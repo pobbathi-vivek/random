@@ -35,7 +35,7 @@
 import pandas as pd
 from helper import calculate_total, format_currency
 
-# Read data  #this data i will read in the ithub
+# Read data  #this data i will read in
 df = pd.read_csv('data/sales.csv')
 
 # Calculate total for each row
