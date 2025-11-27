@@ -14,7 +14,7 @@
 # print(df)
 
 # # Create output directory
-# os.makedirs('output', exist_ok=True)
+# os.makedirs('output', exist_ok=True) #ugfiuwgfiuwbiubiubywqcdhc
 
 # # Save as different formats
 # # 1. JSON format (good for web APIs) #intoit eifswdubsadvb
