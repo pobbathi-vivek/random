@@ -17,7 +17,7 @@
 # os.makedirs('output', exist_ok=True)
 
 # # Save as different formats
-# # 1. JSON format (good for web APIs)
+# # 1. JSON format (good for web APIs) #intoit 
 # df.to_json('output/sales_data.json', orient='records', indent=2)
 
 # # 2. Excel format (good for sharing)
